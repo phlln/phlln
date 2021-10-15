@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Phil Lin 👋
+
+I'm a recently trained Data Analyst excited to leverage these new skills to make sense of the flood of data that we now have available to us 🌊 🔍 📊
 
 <!--
 **phlln/phlln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
