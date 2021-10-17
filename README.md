@@ -8,23 +8,23 @@
 
 I'm a Data Analyst based in Austin, TX.
 
-## 💼  Recent Projects
+## 💼   Recent Projects
 
 
-- **[Data Analysis for Olist E-commerce Platform](https://github.com/phlln/olist-analysis)** - Analyzing the drivers of customer satisfaction for a Brazilian e-commerce platform and running a profit analysis 
+- 📦  **[Data Analysis for Olist E-commerce Platform](https://github.com/phlln/olist-analysis)** - Analyzing the drivers of customer satisfaction for a Brazilian e-commerce platform and running a profit analysis 
 
-- **[Artificial Non-Intelligence | NLP Game powered by DL](https://github.com/bolinocroustibat/artificial-non-intelligence-data)** - An online game challenging a player's ability to discern a real human tweet from a fake AI-generated one
-
-
+- 🤖  **[Artificial Non-Intelligence | NLP Game powered by DL](https://github.com/bolinocroustibat/artificial-non-intelligence-data)** - An online game challenging a player's ability to discern a real human tweet from a fake AI-generated one
 
 
 
-## ⚒ Tools & Tech
+
+
+## ⚒  Tools & Tech
 Tech I'm familiar with or have had exposure to:
 <img src="https://user-images.githubusercontent.com/76771696/137646482-ab79d5a3-d160-4d93-8226-819695d91120.png">
 
 
-## 🖊 Contact Me
+## 🖊  Contact Me
 
 <br>
 <a href="https://www.notion.so/phil-lin/Phil-Lin-s-Portfolio-24883f791876453bb74e8713eb7177bf">
