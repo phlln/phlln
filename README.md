@@ -8,8 +8,8 @@
 
 I'm a Data Analyst based in Austin, TX.
 
-## 💼   Recent Projects
-
+## 💼   Projects
+Recent projects I've worked on: 
 
 - 📦  **[Data Analysis for Olist E-commerce Platform](https://github.com/phlln/olist-analysis)** - Analyzing the drivers of customer satisfaction for a Brazilian e-commerce platform and running a profit analysis 
 
@@ -25,7 +25,8 @@ Tech I'm familiar with or have had exposure to:
 
 
 ## 🖊  Contact Me
-
+You can reach out or find out more about me at the links below:
+<br>
 <br>
 <a href="https://www.notion.so/phil-lin/Phil-Lin-s-Portfolio-24883f791876453bb74e8713eb7177bf">
   <img align="left" alt="Phil Lin | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
