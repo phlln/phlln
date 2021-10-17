@@ -9,8 +9,7 @@
 I'm a Data Analyst based in Austin, TX.
 
 ## 💼   Projects
-Recent projects I've worked on: 
-
+Recent projects I've worked on:
 - 📦  **[Data Analysis for Olist E-commerce Platform](https://github.com/phlln/olist-analysis)** - Analyzing the drivers of customer satisfaction for a Brazilian e-commerce platform and running a profit analysis 
 
 - 🤖  **[Artificial Non-Intelligence | NLP Game powered by DL](https://github.com/bolinocroustibat/artificial-non-intelligence-data)** - An online game challenging a player's ability to discern a real human tweet from a fake AI-generated one
