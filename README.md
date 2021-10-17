@@ -6,31 +6,35 @@
 
 
 
-I'm a Data Analyst.
+I'm a Data Analyst based in Austin, TX.
 
-### 🌱 Recent Projects
-
-
-
-### 
+## 🌱 Recent Projects
 
 
 
 
-<img src="https://user-images.githubusercontent.com/76771696/137646159-5c470cf4-88f2-49e2-ab47-58ed59355802.gif">
 
 
 
+## ⚒ Tools & Tech
+Tech I'm familiar with or have had exposure to:
+<img src="https://user-images.githubusercontent.com/76771696/137646482-ab79d5a3-d160-4d93-8226-819695d91120.png">
+
+
+## 🖊 Contact Me
 
 <br>
 <a href="https://www.notion.so/phil-lin/Phil-Lin-s-Portfolio-24883f791876453bb74e8713eb7177bf">
-  <img align="left" alt="Phil Lin's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
+  <img align="left" alt="Phil Lin | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
 </a>
 <a href="https://www.linkedin.com/in/philip-lin/">
-  <img align="left" alt="Phil Lin's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Phil Lin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://public.tableau.com/app/profile/phil.lin">
-  <img align="left" alt="Phil Lin's Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />
+  <img align="left" alt="Phil Lin | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />
+</a>
+<a href="https://twitter.com/imphillin">
+  <img align="left" alt="Phil Lin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:philip.lin@gmail.com">
-  <img align="left" alt="Phil's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  <img align="left" alt="Phil Lin | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
