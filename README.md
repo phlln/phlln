@@ -36,8 +36,5 @@ You can reach out or find out more about me at the links below:
 <a href="https://public.tableau.com/app/profile/phil.lin">
   <img align="left" alt="Phil Lin | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />
 </a>
-<a href="https://twitter.com/imphillin">
-  <img align="left" alt="Phil Lin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="mailto:philip.lin@gmail.com">
   <img align="left" alt="Phil Lin | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
