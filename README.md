@@ -11,7 +11,7 @@ I'm a Data Analyst based in Austin, TX.
 ## 💼   Projects
 Recent projects I've worked on:
 
-- 👟 **[Consumer Insight Analysis for Wellness Tech Company](https://nbviewer.org/github/phlln/bellabeat-analysis/blob/main/notebooks/bellabeat_consumer_insight_analysis.ipynb)** - Consumer insight analysis of Fitbit user data to develop data-driven marketing strategy for new customers of a wellness tech company
+- 👟 **[Consumer Insight Analysis for Wellness Tech Company](https://nbviewer.org/github/phlln/bellabeat-analysis/blob/main/notebooks/bellabeat_consumer_insight_analysis.ipynb?flush_cache=True)** - Analysis of Fitbit user data to develop a data-driven marketing strategy for a wellness tech company searching for new growth opportunities.
 
 - 📦  **[Data Analysis for Olist E-commerce Platform](https://github.com/phlln/olist-analysis)** - An analysis on the drivers of customer satisfaction for a Brazilian e-commerce platform and how seller quality impacts profits
 
