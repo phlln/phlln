@@ -23,7 +23,7 @@ Recent projects I've worked on:
 
 ## ⚒  Tools & Tech
 Tech I'm familiar with or have had exposure to:
-<img src="https://user-images.githubusercontent.com/76771696/137646482-ab79d5a3-d160-4d93-8226-819695d91120.png">
+![Tech_Logos_Analyst_Focus_1410x1000](https://user-images.githubusercontent.com/76771696/171506046-27bc596c-4db2-46e9-bfee-6ea59b3321a6.png)
 
 
 ## 🖊  Contact Me
