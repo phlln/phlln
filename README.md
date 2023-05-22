@@ -17,15 +17,6 @@ Recent projects I've worked on:
 
 - 🤖  **[Artificial Non-Intelligence | NLP Game powered by DL](https://github.com/bolinocroustibat/artificial-non-intelligence-data)** - An online game challenging a player's ability to discern a real human tweet from a fake AI-generated one
 
-
-
-
-
-## ⚒  Tools & Tech
-Tech I'm familiar with or have had exposure to:
-![Tech_Logos_Analyst_Focus_1410x1000](https://user-images.githubusercontent.com/76771696/171506046-27bc596c-4db2-46e9-bfee-6ea59b3321a6.png)
-
-
 ## 🖊  Contact Me
 You can reach out or find out more about me at the links below:
 <br>
